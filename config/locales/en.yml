@@ -75,5 +75,5 @@ en:
       credit_card_pay_type:
         cc_number: "CC #"
         expiration_date: "Expiry"
-      purchase_order_type:
+      purchase_order_pay_type:
         po_number: "PO #"

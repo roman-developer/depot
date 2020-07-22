@@ -64,5 +64,5 @@ es:
       credit_card_pay_type:
         cc_number: "Número"
         expiration_date: "Expiración"
-      purchase_order_type:
+      purchase_order_pay_type:
         po_number: "Número"
