@@ -15,8 +15,10 @@ I have been motivated to build this application because I wanted to demonstrate 
 Built with [Ruby on Rails](https://rubyonrails.org/).
 - Ruby version: 2.6.5
 - Rails version: 6.0.3.2
+
 Database:
 - Sqlite version: 3.24.0
+
 Frontend:
 - HTML, SCSS and ReactJS.
 
